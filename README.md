@@ -19,3 +19,11 @@ frog(?) style
 
 
 https://youtu.be/sjtLYJpKNtY
+
+
+
+
+Acknowledgment
+
+This code is based on DmitryUlyanov/texture_nets (https://github.com/DmitryUlyanov/texture_nets) and jcjohnson/fast-neural-style(https://github.com/jcjohnson/fast-neural-style).
+
